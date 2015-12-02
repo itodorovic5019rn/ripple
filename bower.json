@@ -1,5 +1,5 @@
 {
-  "name": "ripple",
+  "name": "simple-ripple",
   "description": "Effect that spreads like a wave in touch or click.",
   "version": "1.0.0",
   "keywords": [

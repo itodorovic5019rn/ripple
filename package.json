@@ -3,7 +3,7 @@
   "description": "Effect that spreads like a wave in touch or click.",
   "version": "1.0.0",
   "author": "Raphael Mutschler",
-  "url": "http://bitbucket.org/raphaelmutschler/rippler/",
+  "url": "http://bitbucket.org/raphaelmutschler/ripple/",
   "author_url": "http://raphaelmutschler.de/",
   "licenses": "MIT",
   "devDependencies": {
