@@ -1,0 +1,17 @@
+{
+  "name": "ripple",
+  "description": "Effect that spreads like a wave in touch or click.",
+  "version": "1.0.0",
+  "author": "Raphael Mutschler",
+  "url": "http://bitbucket.org/raphaelmutschler/rippler/",
+  "author_url": "http://raphaelmutschler.de/",
+  "licenses": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.1.2",
+    "grunt-contrib-clean": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^0.11.0",
+    "grunt-postcss": "^0.7.1",
+    "grunt-sass": "^1.1.0"
+  }
+}
