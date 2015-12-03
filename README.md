@@ -35,3 +35,5 @@ The default ripple style will create a white wave on click if you want to invers
 
 you can add your own style by simply overwriting the `.ripple .ink` background property.
 
+
+[more Info and Examples](http://dev.raphaelmutschler.de/ripple/)
