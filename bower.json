@@ -12,8 +12,8 @@
   ],
   "homepage": "http://github.com/mutschler/ripple",
   "main": [
-    "dist/css/ripple.min.css",
-    "dist/js/ripple.min.js"
+    "src/sass/ripple.scss",
+    "src/js/ripple.js"
   ],
   "ignore": [
     ".*",
