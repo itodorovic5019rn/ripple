@@ -1,14 +1,14 @@
 {
   "name": "ripples",
   "description": "Effect that spreads like a wave in touch or click.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "css3",
     "js",
     "less",
     "animation",
     "jquery",
-    "pligin"
+    "plugin"
   ],
   "homepage": "http://github.com/mutschler/ripple",
   "main": [

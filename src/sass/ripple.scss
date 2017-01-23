@@ -1,4 +1,8 @@
 /* -- Ripple effect -------------------------------- */
+$ripple-color:      #fff;
+$ripple-dark-color: darken(#ccc, 30%);
+$ripple-duration:   .5s;
+
 .ripple {
   position: relative;
   overflow: hidden;
@@ -11,17 +15,17 @@
     pointer-events: none;
     border-radius: 50%;
     transform: scale(0);
-    background: #fff;
+    background: $ripple-color;
     opacity: 1;
 
     &.animate {
-      animation: ripple .5s linear;
+      animation: ripple $ripple-duration linear;
     }
   }
 
   &.ripple-dark {
     .ink {
-      background: darken(#ccc, 30%);
+      background: $ripple-dark-color;
     }
   }
 }
