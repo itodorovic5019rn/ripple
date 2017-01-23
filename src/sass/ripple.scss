@@ -1,7 +1,7 @@
 /* -- Ripple effect -------------------------------- */
-$ripple-color:      #fff;
-$ripple-dark-color: darken(#ccc, 30%);
-$ripple-duration:   .5s;
+$ripple-color:      #fff !default;
+$ripple-dark-color: darken(#ccc, 30%) !default;
+$ripple-duration:   .5s !default;
 
 .ripple {
   position: relative;
